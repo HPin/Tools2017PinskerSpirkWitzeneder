@@ -11,8 +11,11 @@ public class HelloWorld {
 	public void thisIsANewMethod() {
 	System.out.println("ValentinWitz/Member1 changed this");
 	
-}
 
+		System.out.println("HPin/Member2 changed this line of code");	
+
+
+	}
 
 	
 }
