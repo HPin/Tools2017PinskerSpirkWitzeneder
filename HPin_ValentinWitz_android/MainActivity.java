@@ -8,7 +8,10 @@ public class HelloWorld {
     }
 	
 
-	public void thisIsANewMethod() {}
+	public void thisIsANewMethod() {
+	System.out.println("ValentinWitz/Member1 changed this");
+	
+}
 
 
 	
