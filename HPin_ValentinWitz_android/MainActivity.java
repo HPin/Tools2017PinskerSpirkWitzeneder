@@ -8,7 +8,11 @@ public class HelloWorld {
     }
 	
 
-	public void thisIsANewMethod() {}
+	public void thisIsANewMethod() {
+		System.out.println("HPin/Member2 changed this line of code");	
+
+
+	}
 
 
 	
