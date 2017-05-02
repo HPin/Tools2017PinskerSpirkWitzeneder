@@ -13,7 +13,8 @@ public class HelloWorld {
 	
 
 		System.out.println("HPin/Member2 changed this line of code");
-		System.out.println("HPin/Member2 changed this line of code Change No 1");	
+		System.out.println("HPin/Member2 changed this line of code Change No 1");
+		System.out.println("HPin/Member2 changed this line of code Change No 2");	
 
 
 	}
