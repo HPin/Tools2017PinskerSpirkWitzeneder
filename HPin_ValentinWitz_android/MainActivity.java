@@ -10,6 +10,7 @@ public class HelloWorld {
 
 	public void thisIsANewMethod() {
 	System.out.println("ValentinWitz/Member1 changed this");
+	System.out.println("ValentinWitz/Member1 changed this Number1");
 	
 
 		System.out.println("HPin/Member2 changed this line of code");	
